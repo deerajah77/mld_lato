@@ -10,6 +10,11 @@
   font-weight: 300;
   font-style: normal;
 }
+.p-info-wrapper .price-final {
+  font-family: 'Lato' !important;
+  font-weight: normal;
+  font-style: normal;
+}
 .submit-button, .products-block .p-bottom .p-tools .btn, .products-block.products .p .price {
  font-family: "Lato" !important;
  font-weight: normal !important;
