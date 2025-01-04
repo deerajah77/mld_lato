@@ -62,7 +62,7 @@
 }
 body, div, p, li, label, input, a, #carousel .extended-banner-title, #footer .custom-footer > div h4, .quantity .increase::before, .quantity .decrease::before, .box-categories > h4, #filters h4, .product-appendix, .advanced-order .h2, .p-price .price-final {
  font-family: "Lato" !important;
- font-weight: normal;
+ font-weight: normal !important;
 }
 .welcome h1 {
  font-family: libre Baskerville !important;
