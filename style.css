@@ -11,8 +11,8 @@
   font-style: normal;
 }
 .submit-button, .products-block .p-bottom .p-tools .btn, .products-block.products .p .price {
- font-family: "Lato", serif !important;
- font-weight: 400 !important;
+ font-family: "Lato" !important;
+ font-weight: normal !important;
 }
 .p-info-wrapper > .p-short-description {
  font-size: 16px;
@@ -38,37 +38,37 @@
  font-weight: 700 !important;
 }
 .h3, {
- font-family: "Lato", serif !important;
- font-weight: 400 !important;
+ font-family: "Lato" !important;
+ font-weight: normal !important;
 }
 .h4 {
  font-family: 'Libre Baskerville', serif !important;
  font-weight: 400 !important;
 }
 .h2 {
- font-family: "Lato", serif !important;
+ font-family: "Lato" !important;
  font-weight: 300 !important;
 }
 .benefitBanner__title {
  font-family: 'Libre Baskerville', serif !important;
 }
 .products-block.products .p .name {
- font-family: "Lato", serif !important;
- font-weight: 400 !important;
+ font-family: "Lato" !important;
+ font-weight: normal !important;
  font-size: 16px;
 }
 .p-detail-inner-header h1 {
  font-family: libre Baskerville !important;
 }
 body, div, p, li, label, input, a, #carousel .extended-banner-title, #footer .custom-footer > div h4, .quantity .increase::before, .quantity .decrease::before, .box-categories > h4, #filters h4, .product-appendix, .advanced-order .h2, .p-price .price-final {
- font-family: "Lato", serif !important;
- font-weight: 400;
+ font-family: "Lato" !important;
+ font-weight: normal;
 }
 .welcome h1 {
  font-family: libre Baskerville !important;
 }
 .fav-cat li > div a {
- font-family: "Lato", serif !important;
+ font-family: "Lato" !important;
  font-weight: 300 !important;
  font-size: 18px;
 }
@@ -87,21 +87,7 @@ body, div, p, li, label, input, a, #carousel .extended-banner-title, #footer .cu
  font-weight: 400;
  font-style: italic;
 }
-.lato-light {
- font-family: "Lato", serif;
- font-weight: 300;
- font-style: normal;
-}
-.lato-regular {
- font-family: "Lato", serif;
- font-weight: 400;
- font-style: normal;
-}
-.lato-bold {
- font-family: "Lato", serif;
- font-weight: 700;
- font-style: normal;
-}
+
 </style>
 <meta name="facebook-domain-verification" content="lflt3uv5vu1kd2cmnj5w65svghoer8" />
 <script src="https://apis.google.com/js/platform.js?onload=renderBadge" async defer></script>
