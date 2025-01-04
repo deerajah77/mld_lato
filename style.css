@@ -1,0 +1,261 @@
+@font-face {
+  font-family: "Lato";
+  src: url("https://mld-lato.vercel.app/Lato-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+.submit-button, .products-block .p-bottom .p-tools .btn, .products-block.products .p .price {
+ font-family: "Lato", serif !important;
+ font-weight: 400 !important;
+}
+.p-info-wrapper > .p-short-description {
+ font-size: 16px;
+ color: #434343;
+}
+.odber h4 {
+ font-family: 'Libre Baskerville', serif !important;
+ font-weight: 400 !important;
+ font-size: 22px !important; 
+}
+.category-perex h2 {
+ display: none!important;
+}
+.empty-content p {
+ display: none!important;
+}
+#carousel .extended-banner-title {
+ width: 25%;
+ font-size: 14px;
+}
+.h1, {
+ font-family: 'Libre Baskerville', serif !important;
+ font-weight: 700 !important;
+}
+.h3, {
+ font-family: "Lato", serif !important;
+ font-weight: 400 !important;
+}
+.h4 {
+ font-family: 'Libre Baskerville', serif !important;
+ font-weight: 400 !important;
+}
+.h2 {
+ font-family: "Lato", serif !important;
+ font-weight: 300 !important;
+}
+.benefitBanner__title {
+ font-family: 'Libre Baskerville', serif !important;
+}
+.products-block.products .p .name {
+ font-family: "Lato", serif !important;
+ font-weight: 400 !important;
+ font-size: 16px;
+}
+.p-detail-inner-header h1 {
+ font-family: libre Baskerville !important;
+}
+body, div, p, li, label, input, a, #carousel .extended-banner-title, #footer .custom-footer > div h4, .quantity .increase::before, .quantity .decrease::before, .box-categories > h4, #filters h4, .product-appendix, .advanced-order .h2, .p-price .price-final {
+ font-family: "Lato", serif !important;
+ font-weight: 400;
+}
+.welcome h1 {
+ font-family: libre Baskerville !important;
+}
+.fav-cat li > div a {
+ font-family: "Lato", serif !important;
+ font-weight: 300 !important;
+ font-size: 18px;
+}
+.libre-baskerville-regular {
+ font-family: "Libre Baskerville", serif;
+ font-weight: 400;
+ font-style: normal;
+}
+.libre-baskerville-bold {
+ font-family: "Libre Baskerville", serif;
+ font-weight: 700;
+ font-style: normal;
+}
+.libre-baskerville-regular-italic {
+ font-family: "Libre Baskerville", serif;
+ font-weight: 400;
+ font-style: italic;
+}
+.lato-light {
+ font-family: "Lato", serif;
+ font-weight: 300;
+ font-style: normal;
+}
+.lato-regular {
+ font-family: "Lato", serif;
+ font-weight: 400;
+ font-style: normal;
+}
+.lato-bold {
+ font-family: "Lato", serif;
+ font-weight: 700;
+ font-style: normal;
+}
+</style>
+<meta name="facebook-domain-verification" content="lflt3uv5vu1kd2cmnj5w65svghoer8" />
+<script src="https://apis.google.com/js/platform.js?onload=renderBadge" async defer></script>
+<script>
+window.renderBadge = function() {
+ var ratingBadgeContainer = document.createElement("div");
+  document.body.appendChild(ratingBadgeContainer);
+  window.gapi.load('ratingbadge', function() {
+  window.gapi.ratingbadge.render(ratingBadgeContainer, {"merchant_id": 139184233});
+ });
+}
+</script>
+<title>Luxusní kožené obaly</title>
+<style>
+/*Med.query pro mob.zař.*/
+@media (max-width: 768px) {
+ #unique-section .row {
+  flex-direction: column; /*Zm.rozl.na vertik*/
+  text-align: center; /*Zar.textu na střed*/
+}
+#unique-section .column {
+ padding: 10px 0;
+}
+#unique-section h2 {
+ font-size: 150%; /*Možné zmen.nadp.pro mob.zobr.*/
+}
+#unique-section p {
+ margin-top: 15px;
+ }
+}
+#unique-section .row {
+ display: flex;
+ align-items: center;
+ margin: 10px 0;
+}
+#unique-section .column {
+ flex: 1;
+ padding: 10px;
+}
+#unique-section .column img {
+ max-width: 100%;
+ height: auto;
+ border-radius: 8px;
+}
+#unique-section h2 {
+ font-size: 200%;
+ text-align: left;
+ margin: 0;
+}
+#unique-section p {
+ text-align: left;
+ margin-top: 10px;
+}
+.p-info-wrapper {
+ display: compact important!;
+}
+.navigation-in > ul > li > a {
+ color: #fff;
+ padding: 30px 5px;
+ font-size: 12px;
+ font-family: libre Baskerville !important;
+}
+@media (min-width: 768px) {
+ .navigation-in > ul {
+  width: 50%;
+  margin-left: 244px;
+ }
+}
+@media screen and (min-width: 768px) {
+ .navigation-in > ul > li:hover > a {
+  background-color: #80003e;
+ }
+}
+.lupa {
+ padding: 27px 10px;
+ line-height: 1;
+}
+.top-nav-button {
+ padding: 27px 10px;
+ line-height: 1;
+}
+.menu-helper {
+ padding: 27px 10px;
+}
+.menu-helper > span {
+ font-size: 14px;
+}
+.plus-gallery-item a {
+ text-decoration: none; /*Odst.podtr.odkazu*/
+ border: none; /*Odst.okr.odkazu*/
+ outline: none; /*Odst.modré ohran.při klik.*/
+}
+.plus-gallery-item a img {
+ border: none; /*Odstr.linky*/
+}
+.p-info-wrapper .detail-parameters select {
+ height: 40px;
+}
+/*Zákl.styl pro kont.obr.*/
+.image-container {
+ display: flex;
+ justify-content: center; /*Centr.obr.horiz.*/
+ gap: 10px; /*Vol.prost.mezi obr.*/
+ flex-wrap: wrap; /*Um.obr.se přizp.dost.prost.*/
+ align-items: flex-start; /*Zar.obr.na zač.kont.*/
+}
+/*Styl pro jedn.pol.obr.*/
+.image-item {
+ flex: 1 1 auto; /*Um.přizp.vel.*/
+ max-width: 40%; /*Nast.max.šíř.pol., aby - vedl.sebe*/
+ box-sizing: border-box; /*Zaj., že padd.a border jsou zahr.v šíř.a výšce*/
+}
+.image-item img {
+ display: block; /*Odstr.mez.pod obr.*/
+ width: 100%; /*Zaj., že obr.se přizp.šíř.kont.*/
+ height: auto; /*Udr.spr.pom.stran obr.*/
+}
+/*Styl pro mob.zař.*/
+@media (max-width: 768px) {
+.image-container {
+ flex-direction: column; /*Zm.směr zobr.na sl.*/
+ gap: 20px; /*Zv.prost.mezi obr na mob.*/
+}
+.image-item {
+  max-width: 100%; /*max.šíř.pol.na 100% na mob.*/
+ }
+}
+@media (min-width: 768px) {
+ #header .cart-count {
+  padding: 27px 32px 27px 10px;
+ }
+}
+.filters-unveil-button-wrapper {
+  display: hidden important!;
+}
+@media (min-width: 768px) {
+ .navigation-in > ul > li.ext > ul > li > div > ul > li {
+  display: none;
+ }
+}
+@media (min-width: 768px) {
+ #content .btn.unveil-button, #footer .btn.unveil-button {
+  display: none;
+ }
+}
+.plus-gallery-item {
+ border-width: 0px;
+}
+.benefitBanner__img {
+ max-height: 70px;
+}
+.category-header form {
+ display: none;
+}
+.ec-v-form-holder.ec-v-form-holder-basic {
+ background-color: rgba(255, 255, 255, 0) !important;
+ width: 770px;
+ padding-top: 100px !important;
+}
+#signature {
+ display: none !important;
+ visibility: hidden !important;
+}
