@@ -24,9 +24,8 @@
  color: #434343;
 }
 .odber h4 {
- font-family: 'Libre Baskerville', serif !important;
- font-weight: 400 !important;
- font-size: 22px !important; 
+ font-family: 'Lato' !important;
+ font-weight: normal !important; 
 }
 .category-perex h2 {
  display: none!important;
