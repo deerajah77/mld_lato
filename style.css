@@ -50,6 +50,10 @@
  font-family: 'Libre Baskerville', serif !important;
  font-weight: 400 !important;
 }
+.h5 {
+ font-family: 'Lato' !important;
+ font-weight: normal !important;
+}
 .h2 {
  font-family: 'Lato' !important;
  font-weight: normal !important;
