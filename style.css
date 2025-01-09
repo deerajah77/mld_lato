@@ -58,6 +58,9 @@
  font-family: 'Lato' !important;
  font-weight: normal !important;
 }
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .navigation-in > ul > li > a, .extended-banner-title, .fav-cat li > div a, .menu-helper > span, .p .name, .prices, .prices > div, .vote-initials, .vote-name, .news-item .text .title, .social-login-buttons-divider, .subcategories li a .text, .price-standard, .price-final, .price-additional, #productsAlternative::before, .benefitBanner__title, #variants::before, .variant-name, #ratingTab::before, .rate-wrapper .rate-average, .vote-form > form::before, #productDiscussion::before, .cart-table .main-link, .free-gift::before, .free-gift-name, .cart-table tr.related td::before, .cart-related-name, .price-primary, .payment-info b, .payment-shipping-price, .cart-item.cart-item-gift > div > strong, .id--15 .cart-table .p-name, .id--15 .cart-table .p-price, #search-group-categories .search-results-group-list ul li a, .empty-content-404::before, .obj-detail .p-name a, .klient-centrum.obj-detail .content td:last-child, .step-title, .empty-cart-boxes ul li a, .dklab_instagram_widget_heading > .text, .plugin-fixed-header__name, .fvDoplnek .fvDoplnek-produkt .fvDoplnek-text .price, .fvDoplnek-text .name, .hodnoceni-hp .autor {
+    /* font-family: "span",serif !important; */
+}
 .benefitBanner__title {
  font-family: 'Libre Baskerville', serif !important;
 }
