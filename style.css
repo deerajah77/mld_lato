@@ -11,8 +11,8 @@
   font-optical-sizing: auto;
   font-weight: 100;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+  /*font-variation-settings:
+    "wdth" 100;*/
 
 }
 @font-face {
@@ -24,8 +24,8 @@
   font-optical-sizing: auto;
   font-weight: 100;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+  /*font-variation-settings:
+    "wdth" 100;*/
 }
 .p-info-wrapper .price-final {
   /*font-family: 'Lato' !important;
@@ -35,8 +35,8 @@
   font-optical-sizing: auto;
   font-weight: 100;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+  /*font-variation-settings:
+    "wdth" 100;*/
 }
 .submit-button, .products-block .p-bottom .p-tools .btn, .products-block.products .p .price {
  /*font-family: 'Lato' !important;
@@ -45,8 +45,8 @@
   font-optical-sizing: auto;
   font-weight: 100;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+  /*font-variation-settings:
+    "wdth" 100;*/
 }
 .p-info-wrapper > .p-short-description {
  font-size: 16px;
@@ -59,8 +59,8 @@
   font-optical-sizing: auto;
   font-weight: 100;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+  /*font-variation-settings:
+    "wdth" 100;*/
 }
 .order-summary-inner h4 {
  /*font-family: 'lato' !important;
@@ -69,8 +69,8 @@
   font-optical-sizing: auto;
   font-weight: 100;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+  /*font-variation-settings:
+    "wdth" 100;*/
 }
 .odber h4 {
  /*font-family: 'Lato' !important;
@@ -79,8 +79,8 @@
   font-optical-sizing: auto;
   font-weight: 100;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+  /*font-variation-settings:
+    "wdth" 100;*/
 }
 .category-perex h2 {
  display: none!important;
@@ -103,8 +103,8 @@
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+  /*font-variation-settings:
+    "wdth" 100;*/
 }
 .h4 {
  /*font-family: 'Lato' !important;
@@ -113,8 +113,8 @@
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+  /*font-variation-settings:
+    "wdth" 100;*/
 }
 .h5 {
  /*font-family: 'Lato' !important;
@@ -123,8 +123,8 @@
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+  /*font-variation-settings:
+    "wdth" 100;*/
 }
 .h2 {
  /*font-family: 'Lato' !important;
@@ -133,8 +133,8 @@
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+  /*font-variation-settings:
+    "wdth" 100;*/
 }
 h5, h6, .navigation-in > ul > li > a, .extended-banner-title, .fav-cat li > div a, .menu-helper > span, .p .name, .prices, .prices > div, .vote-initials, .vote-name, .news-item .text .title, .social-login-buttons-divider, .subcategories li a .text, .price-standard, .price-final, .price-additional, #productsAlternative::before, .benefitBanner__title, #variants::before, .variant-name, #ratingTab::before, .rate-wrapper .rate-average, .vote-form > form::before, #productDiscussion::before, .cart-table .main-link, .free-gift::before, .free-gift-name, .cart-table tr.related td::before, .cart-related-name, .price-primary, .payment-info b, .payment-shipping-price, .cart-item.cart-item-gift > div > strong, .id--15 .cart-table .p-name, .id--15 .cart-table .p-price, #search-group-categories .search-results-group-list ul li a, .empty-content-404::before, .obj-detail .p-name a, .klient-centrum.obj-detail .content td:last-child, .step-title, .empty-cart-boxes ul li a, .dklab_instagram_widget_heading > .text, .plugin-fixed-header__name, .fvDoplnek .fvDoplnek-produkt .fvDoplnek-text .price, .fvDoplnek-text .name, .hodnoceni-hp .autor {
  /*font-family: 'Lato' !important;
@@ -143,8 +143,8 @@ h5, h6, .navigation-in > ul > li > a, .extended-banner-title, .fav-cat li > div 
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+  /*font-variation-settings:
+    "wdth" 100;*/
 }
 .benefitBanner__title {
  font-family: 'Libre Baskerville', serif !important;
@@ -156,8 +156,8 @@ h5, h6, .navigation-in > ul > li > a, .extended-banner-title, .fav-cat li > div 
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+  /*font-variation-settings:
+    "wdth" 100;*/
   font-size: 16px;
 }
 .p-detail-inner-header h1 {
@@ -170,8 +170,8 @@ body, div, p, li, label, input, a, #carousel .extended-banner-title, #footer .cu
   font-optical-sizing: auto;
   font-weight: 100;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+  /*font-variation-settings:
+    "wdth" 100;*/
 }
 .welcome h1 {
  font-family: libre Baskerville !important;
@@ -183,8 +183,8 @@ body, div, p, li, label, input, a, #carousel .extended-banner-title, #footer .cu
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+  /*font-variation-settings:
+    "wdth" 100;*/
   font-size: 18px;
 }
 .libre-baskerville-regular {
